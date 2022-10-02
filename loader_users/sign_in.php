@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+//error_reporting(0);
 
 include_once $_SERVER['DOCUMENT_ROOT'].'/rapid_auth_api_base64/includes.php';
 include $_SERVER['DOCUMENT_ROOT'].'/rapid_auth_api_base64/config.php';
